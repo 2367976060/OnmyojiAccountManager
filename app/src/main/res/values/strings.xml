@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">阴阳师账号管理器</string>
+    <string name="add_account">添加账号</string>
+    <string name="edit_account">编辑账号</string>
+    <string name="account_type">账号类型</string>
+    <string name="server">区服</string>
+    <string name="phone_number">手机号</string>
+    <string name="password">密码</string>
+    <string name="shikigami">主要式神</string>
+    <string name="level">等级</string>
+    <string name="status">账号状态</string>
+    <string name="notes">备注</string>
+    <string name="save">保存</string>
+    <string name="cancel">取消</string>
+    <string name="delete">删除</string>
+    <string name="search">搜索账号...</string>
+    <string name="export">导出备份</string>
+    <string name="filter">筛选</string>
+    <string name="all">全部</string>
+    <string name="active">正常</string>
+    <string name="frozen">冻结</string>
+    <string name="banned">封禁</string>
+    <string name="official">官服</string>
+    <string name="bilibili">B服</string>
+    <string name="other">其他渠道</string>
+    <string name="export_success">导出成功！文件已保存到Download目录</string>
+    <string name="export_failed">导出失败</string>
+    <string name="save_success">保存成功</string>
+    <string name="delete_confirm">确定要删除这个账号吗？</string>
+    <string name="confirm">确定</string>
+    <string name="no_accounts">暂无账号，点击右下角按钮添加</string>
+</resources>
